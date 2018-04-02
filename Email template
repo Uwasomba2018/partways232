@@ -1,0 +1,482 @@
+	
+Release Planning
+================
+
+Release Planning for 5th to 9th February 2018
+
+Hi All,
+
+I trust you are well. 
+
+I would like to have an update on the releases you are planning for next week (5th - 9th February, 2018).
+
+Each PM should kindly reply to this email within 48hrs with their respective release plan for the period as stated. This is to allow more time for testing and checks on the releases before they are approved. 
+
+
+At present, here is the release schedule that has been received so far;
+https://confluence.redboxcloud.com/pages/viewpage.action?pageId=26181830
+
+Thanks for your co-operation.
+
+Regards,
+
+
+Deployment Email
+================
+
+Hi All,
+
+Please note that the deployment for Nespresso MA Version 1.0.1 will start in 10 minutes and I will update you once the deployment is completed.
+
+Thanks,
+=====================
+
+
+Hi All,
+
+Please note that the deployment has been successfully completed. 
+
+Our QA team is currently performing a sanity testing on the site. 
+
+I will update you once finished (ETA 1hour). 
+
+Can your team please check and let us know as well.
+
+Thanks,
+
+
+======================
+
+
+
+
+NEspresso Release notification Email
+====================================
+NEP - Releases for Wednesday 7th February 2018.
+
+Dear Andre and Mahy,
+
+Please be informed that we are planning the deployment of the following on Wednesday 7th February 2018.
+
+1. Nespresso TR Version 1.0.3 at 8:30AM UAE Time.
+
+2. Nespresso MA Version 1.0.1 at 9:30AM UAE Time.
+
+
+Kindly find attached the release notes contaning the tickets that will be deployed for your perusal.
+
+Looking forward to get your approval on these deployments
+
+I remain at your disposal for any queries.
+
+Kind Regards,
+===================================
+
+enabling Redbox CollectInStore for M2 UAE
+
+Well noted. Thank you!
+-========================================
+Dear Andre and Mahy,
+
+We are planning the deployment of Release Version NEP M2 KSA release/1.0.5 on Monday, 12th February 2018 at 8:30AM UAE Time.
+
+Find attached the release note regarding the tickets to be deployed for your perusal
+Looking forward to getting your approval for this release.
+
+I remain at your disposal for any queries.
+
+Thanks
+====================================================
+Dear Andre and Mahy,
+
+We are planning the deployment of Release Version NEP M2 KSA release/1.0.5 on Monday, 12th February 2018 at 9:30AM UAE Time.
+
+Find attached the release note regarding the tickets to be deployed for your perusal.
+
+Looking forward to getting your approval for this release.
+
+I remain at your disposal for any queries.
+
+Thanks
+=========================================================
+
+
+
+
+
+
+
+Pending	ALJ B2B	Krishan	
+Release: pending
+
+Devops:
+
+Developer: @Vitalijs
+
+QA: 
+
+Deployment Ticket:
+
+Confluence: 
+
+Pending
+Pending	ALJ B2B	Krishan	
+Release: pending
+
+Devops:
+
+Developer: @Vitalijs
+
+QA: 
+
+Deployment Ticket:
+
+Confluence: 
+
+Pending
+
+screwfix.de.jt.redboxcloud.com
+
+Valeria Del Sordo <valeria.DelSordo@paperchase.co.uk>,
+Siobhan Hughes <siobhan.hughes@paperchase.co.uk>,
+Adam Skinner <adam.skinner@redboxdigital.com>,
+Redbox Releases <releases@redboxdigital.com>,
+Ferrhannah Caunhye <ferrhannah.caunhye@redboxdigital.com>,
+Dayamee Pydatalli <dayamee.pydatalli@redboxdigital.com>,
+Rei Reither <rei.reither@redboxdigital.com>,
+Michael Agratina <michael.agratina@redboxdigital.com>
+
+Testing123
+
+79FDvl3u7s!
+
+can u please confirm if this "Merge magento/customer patches" merged to NEP M2 MA is going via release/1.0.2
+
+Log Time
+KSA = http://jira.redboxcloud.com/browse/NEP-893
+UAE = http://jira.redboxcloud.com/browse/NEP-894
+KW = http://jira.redboxcloud.com/browse/NEP-900
+==============================
+
+
+Hi Andre,
+
+Please be informed that our QA team has completed a sanity test on Nepresso M2 KW version 1.0.2 and everything works as expected. Although, we noted a minor UI issue. A developer is checking this presently.  
+
+Kindly note also that our QA team is currently testing the tickets, I will update you in this regards once completed.
+
+Thanks,
+
+can u please confirm if this "Merge magento/customer patches" is going via this release.
+
+
+All the tickets going for ZA = http://jira.redboxcloud.com/projects/NEP/versions/16202
+All the tickets going for MA = http://jira.redboxcloud.com/projects/NEP/versions/16201
+===============================
+
+
+Dear Christine & Nicola,
+
+We are planning the deployment of Release Version 1.30.1 on Wednesday 14th February 2018 at 8:30AM UAE Time. 
+
+Please note that this release will cover a window of 1 hour.
+
+Find attached, the release notes regarding the tickets to be deployed as agreed with the PM (Holly) for your perusal.
+
+Looking forward to getting your approval of this deployment.
+
+I remain at your disposal for further queries.
+
+Thanks
+
+Christine Guerru <CGuerru@sephora.ae>,
+Lana Dia <LDia@sephora.ae>,
+Janine Khouri <JKhouri@sephora.ae>,
+
+Aneurin Barker Snook <aneurin.barkersnook@redboxdigital.com>,
+Kaviraj Meetooa <kaviraj.meetooa@redboxdigital.com>,
+Redbox Releases <releases@redboxdigital.com>,
+Krishan Gharu <krishan.gharu@redboxdigital.com>,
+Nicola Robinson <NRobinson@sephora.ae>,
+Holly Waghorn <holly.waghorn@redboxdigital.com>,
+Arthur Castelnau <ACastelnau@sephora.ae>
+
+=====================================
+Hi All,
+
+I write to inform you that we had issues deploying M2 ZA version 1.2.3 because of the large media shared files. It will not be good to just make a deployment that will caused a long downtime before it is fixed. 
+
+The issue was also noted to affect the deployment of M2 MA version 1.0.2. Hence, we are cancelling all the deployment scheduled for today, 14th Feb., 2018. 
+
+This cancellation will allow us to fix the issue, perform another round of sanity check before deployment will be done.
+
+I will communicate you when next these deployments will take place. 
+
+Regards,
+
+
+
+
+Hi Christine,
+
+Please be informed that the deployment of release/1.30.1 holds tomorrow at 8AM UAE Time.
+
+We shall notify you in respesct of the deployment 10 minutes before it starts.
+
+Attached is the updated pre-release note for your perusal.
+
+I remain at your disposal for further quries.
+
+Regards,
+
+
+Dear Andre and Mahy,
+
+Thank you so much for the update.
+
+Please note that we write to seek your approval for the release of the following markets today, Monday, 19th February 2018.
+
+MA - v1.0.2 @ 3:00PM UAE Time.
+TR - v1.0.4 @ 4:00PM UAE Time.
+
+We look forward to hearing from you.
+
+Regards,
+Uwasomba.
+
+
+Dear Mahy,
+
+Thanks for the approval.
+
+We shall notify you in respect of this deployment 10 minutes before it starts.
+
+Regards,
+Uwasomba.
+=====================
+==================================================================================
+
+Hi Mahy,
+
+Please note that the deployment for M2 TR Version 1.0.4 starts in 10 minutes.
+
+I will update you once the deployment is completed.
+
+Thanks,​
+
+========================================================
+
+Hi Mahy,
+
+Kindly note that the deployment of M2 TR Version 1.0.4 has been successfully completed.
+
+Our QA team is currently performing a sanity testing on the site. 
+
+I will update you once finished (ETA 1hr). 
+
+Can your team please check and let us know as well?
+
+Thanks,
+===================================================
+Hi Mahy,
+
+Please note that our QA team has successfully completed sanity check, and the site is functioning as expected.
+
+Kindly find attached post deployment note indicating the tickets that were included in today's deployment
+
+Many thanks,
+
+
+=====================================================
+For MA
+Tag is on 1.0.2
+Branch Master
+=============================================================
+For Tr
+Tag is on 1.0.4
+Branch Master
+=========================================================
+M2 TR live is ready for QA.
+
+Can u please deploy the following to their respective Stag server for QA
+
+KSA = release/1.0.6
+KW = release/1.0.3
+
+===========================================
+
+Hi Mahy,
+
+Thank you for your quick response.
+
+We write to seek your approval for the release of M2 ZA version 1.2.3 on Wednesday, 21th February 2018 at 8:30am.
+
+The tickets associated with these releases are the same as sent to you last week.
+
+We look forward to hearing from you.
+
+Regards,
+
+There are also minor issues that need to be fix on KSA Stag (release/1.0.6) as per QA results
+
+NEP-807 is failing on M2 UAE according to QA result (Mobile view). "Aromatic Filter" should be removed on Coffee PLP. 
+================================================================
+
+Dear Areej & Firas,
+
+We are planning the deployment of Release Version 1.45.0 on Thursday 22nd February 2018 at 9:30AM UAE Time.
+
+Attached is a pre-release note showing all the tickets to be deployed.
+
+We Look forward to getting your approval on this release.
+
+I remain at your disposal for further queries.
+
+Thanks,
+
+
+
+Can u please add NEP-880 to M2 MM release/1.0.1
+
+
+Please note that no code should be deployed to the following release branches with the knowledge of Sheilen or myself, Please! 
+
+Please note that the following markets are on code freezee. Thus, no code should be deployed without the knowledge of Sheilen or myself, Please! Many thanks.
+ZA release/1.2.3
+KSA release/1.0.6
+KW release/1.0.3
+====
+UAE release/1.0.6
+MM release/1.0.1
+
+
+They have all passed QA and will be deployed tomorrow.
+
+UAE release/1.0.6
+MM release/1.0.1
+
+
+Dear Susan,
+
+We are planning the deployment of Release Version 1.3.0 on Tuesday 26th February 2018 at 8:30 AM UAE Time.
+
+Find attached, the release note showing all the tickets that will be deployed.
+
+We looking forward to getting your approval for this release.
+
+I remain at your disposal for further queries.
+
+Thanks,
+
+================================
+
+Dear Andre and Mahy,
+
+Please note that our QA is still conducting tests on the M2 MA release branch.
+
+Once completed, We will notif
+
+All inconveniences are highly regretted.
+
+Regards,
+====================================================
+
+Lebanon
+
+========
+
+@Malik - I am cancelling this M2 MM release for today following the prevailing issues that are presently on Stag. This is rescheduled to Wednesday, 28th February 2018. This is to allow u to fix the issue, and QA performed again before we deploy.
+
+We have notice an issue with the amasty category filter in the release package and from a delivery point of view; i can't allow this release to go though. We will need to reschedule this release to early next week.
+===================================================================
+
+Dear Andre and Mahy,
+
+Please note that we shall be enabling the Redbox CollectInStore module in respect of the M2 UAE: Boutique pick up (ZD#43654) and then, re-deploy the UAE market. In doing this, there will not be any code change. But, we shall have a downtime of 5 to 10 minutes.
+
+Kindly note also that this module has been tested and deployed already, we are going to just enable it. 
+
+This is scheduled to take place on Monday, 26th February 2018 at 9:30AM UAE Time.
+
+We looking forward to getting your approval for this.
+
+I remain at your disposal for further queries.
+
+Thanks,
+=======================================================
+
+Apologies for the mistake with respect to the Jira ID.
+
+Kindly note that the moduele to be enabled is Redbox CollectInStore module for M2 UAE: Boutique pick up (ZD#43654) with the Jira ID 881 instead of 811 as sent earlier. Thanks.
+
+===================================
+
+Hi Andre and Mahy,
+
+Kindly note that the deployment M2 MM version 1.0.1 has been completed.
+
+Our QA team is currently performing a sanity testing on the site. 
+
+I will update you once finished (ETA 1hr). can you please flush incapsula,
+
+Can you please:
+
+1. flush incapsula. 
+2. inform your team please check and let us know as well?
+
+Thanks,
+Uwasomba.
+
+
+
+Following today's deployment M2 MM version 1.0.1, can you please flush incapsula.
+
+
+Can you please check why QA is having error with reapect to NEP-905
+
+
+Username: dabamaroc_a
+
+400000 0000000010
+
+Expiry Date: 12 / 2019
+
+CVV: 000
+
+==================================
+Hi Andre and Mahy,
+
+Kindly note that the deployment of M2 MA version 1.0.3 has been successfully completed.
+
+At present, our QA team is currently performing a sanity test on the site. 
+
+I will update you once finished (ETA 1hr).
+
+Can your team please check and let us know as well?
+
+Thanks,
+Uwasomba.
+
+======================================
+
+Hi Mahy,
+
+Please note that our QA team has successfully completed a sanity check, and the site is functioning as expected.
+
+We shall be sending you a post release note to indicate the ticket that was included in today's deployment.
+
+Thanks,
+Uwasomba.
+
+========================================
+
+We had a total of four deployments today. These are Sephora, Nespresso M2 Saudi Arabia (KSA), Multimarkets (MM) and Moroco (MA). Sanity and tickets testing passed QA in Sephora, KSA and MM. Except for MA where Minor issue were recorded. Two tickets failed QA and will be re-deployed in the next release.
+
+
+
+
+
+
+
+
+
